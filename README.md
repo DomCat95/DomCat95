@@ -17,7 +17,7 @@ Currently **expanding** into AI-powered automation, with an upcoming master's de
 `Python` · `JavaScript` · `VB.NET`
 
 **Exploring**
-`AI / LLM integration` · `Prompt engineering` · `SQL` · `Power BI` · `R`
+`AI / LLM integration` · `Prompt engineering` · `SQL`
 
 ---
 
