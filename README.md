@@ -1,16 +1,10 @@
-# Ciao, sono Domenico 👋
+# Hi, I'm Domenico 👋
 
-**RPA Developer & Automation Consultant** — based in Palermo, working worldwide.
+**RPA Developer & Automation Consultant** — based in Italy, working worldwide.
 
-Quasi 5 anni a costruire automazioni che fanno sparire il lavoro ripetitivo. Specializzato in **UiPath**, integrazione **SAP** e automazione di processi di business. Quando un'interfaccia è ostile e il record-and-replay standard fallisce, è lì che entro io.
+Almost 5 years making repetitive work disappear through automation. Specialized in **UiPath**, **SAP** integration, and business process automation. When an interface is hostile and standard record-and-replay breaks, that's where I come in.
 
-Ora sto **espandendo il raggio**: AI applicata all'automazione, con un percorso di laurea magistrale in **Intelligenza Artificiale** in arrivo.
-
----
-
-*Almost 5 years making repetitive work disappear through automation. Specialized in **UiPath**, **SAP** integration, and business process automation. When an interface is hostile and standard record-and-replay breaks, that's where I come in.*
-
-*Currently **expanding** into AI-powered automation, with an upcoming master's degree in **Artificial Intelligence**.*
+Currently **expanding** into AI-powered automation, with an upcoming master's degree in **Artificial Intelligence**.
 
 ---
 
@@ -23,26 +17,22 @@ Ora sto **espandendo il raggio**: AI applicata all'automazione, con un percorso 
 `Python` · `JavaScript` · `VB.NET`
 
 **Exploring**
-`AI / LLM integration` · `Prompt engineering` · `SQL`
+`AI / LLM integration` · `Prompt engineering` · `SQL` · `Power BI` · `R`
 
 ---
 
-### 🔧 Cosa faccio bene / What I do well
+### 🔧 What I do well
 
-- **Automazioni SAP UI5 difficili** — popup asincroni, tree-table dinamiche, dialog che gli strumenti standard non vedono
-- **JavaScript injection in UiPath** — quando i selettori non bastano, scendo nel DOM
-- **Tool Python su misura** — script che risolvono problemi reali, compilati e pronti all'uso
-- **Architettura di processo** — penso i flussi prima di costruirli (sì, uso anche i diagrammi)
-
----
-
-### 📫 Contatti / Get in touch
-
-- 📍 Palermo, Italy
-- 🌍 Available for remote work
-<!-- - 📧 domenico.catalano08@gmail.com -->
-<!-- - 💼 https://www.linkedin.com/in/domenico-catalano/ -->
+- **Hard SAP UI5 automations** — asynchronous popups, dynamic tree-tables, dialogs that standard tools can't see
+- **JavaScript injection in UiPath** — when selectors aren't enough, I go down to the DOM
+- **Custom Python tools** — scripts that solve real problems, compiled and ready to use
+- **Process architecture** — I design the flows before building them (yes, I use diagrams too)
 
 ---
 
-<sub>🇮🇹 Italiano · 🇬🇧 English</sub>
+### 📫 Get in touch
+
+- 📍 Italy · Available for remote work
+- 📧 domenico.catalano08@gmail.com
+- 💼 [linkedin.com/in/domenico-catalano](https://www.linkedin.com/in/domenico-catalano/)
+- 🌐 [domcat95.github.io](https://domcat95.github.io)
